@@ -38,7 +38,7 @@ This Python script extracts Discord tokens from local storage files across vario
 
     ```bash
     git clone https://github.com/zentonik/EasyTokenGrabber.git
-    cd discord-token-extractor
+    cd EasyTokenGrabber
     ```
 
 2. **Install Dependencies**:
